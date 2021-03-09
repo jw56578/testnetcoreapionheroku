@@ -1,16 +1,13 @@
 ﻿<Properties StartupConfiguration="{A3187FE1-EDE8-4FC6-A897-2415A90B1E8D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="readme.md">
+  <MonoDevelop.Ide.Workbench ActiveDocument="app.json">
     <Files>
-      <File FileName="readme.md" Line="1" Column="22" />
+      <File FileName="readme.md" Line="4" Column="34" />
+      <File FileName="app.json" Line="18" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="testserver" expanded="True">
-            <Node name="Solution Items" expanded="True">
-              <Node name="/Users/jwoo/Projects/testserver/readme.md" selected="True" />
-            </Node>
-          </Node>
+          <Node name="testserver" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>

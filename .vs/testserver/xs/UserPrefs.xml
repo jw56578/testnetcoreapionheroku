@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{A3187FE1-EDE8-4FC6-A897-2415A90B1E8D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="readme.md">
+    <Files>
+      <File FileName="readme.md" Line="1" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="testserver" expanded="True">
+            <Node name="Solution Items" expanded="True">
+              <Node name="/Users/jwoo/Projects/testserver/readme.md" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.testserver PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
